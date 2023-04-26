@@ -1,0 +1,51 @@
+body{
+    text-align: center;
+    margin: 0px;
+}
+#batata{
+      border-radius: 100px;
+    width: 150px;
+}
+#sessao{
+    padding-top: 45px;
+    padding-bottom: 20px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background: linear-gradient(rgb(108, 169, 248),rgb(255, 255, 255),rgb(193, 118, 255));
+}
+#bio{
+ margin-left:200px ;
+ margin-right:200px ;
+ margin-top:25px ;
+ margin-bottom:50px ;
+}
+iframe{
+    height:500px;
+    width:550px;
+}
+#aaaa{
+    opacity:80%;
+    background-color: rgb(108, 169, 248);
+    list-style:none;
+    position: fixed;
+    width:100%;
+    top: -20px;
+}
+#aaaa li{
+ float: left;
+ margin:10px;    
+}
+#aaaa li a {
+    text-decoration:none;
+}
+#ul2 {
+    width:fit-content ;
+}
+section h3 {
+    text-underline-offset: 8px;
+    text-decoration: underline solid rgb(193, 118, 255); 
+    font-size: 30px;
+}
+#h3especial {
+    text-decoration: underline rgb(255, 255, 255);
+}
